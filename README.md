@@ -1,6 +1,7 @@
 # _Boring Lecture_
 
-#### _Webpage about a boring lecture to practice working with CSS selectors (for Epicodus), 4 August 2020_
+#### _Webpage about a boring lecture to practice working with CSS selectors (for Epicodus)_
+4 August 2020
 
 #### By _**Jillian Gibson and Vanessa Stewart**_
 
